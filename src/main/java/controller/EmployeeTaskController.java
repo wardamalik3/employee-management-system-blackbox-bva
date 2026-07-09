@@ -59,14 +59,15 @@ public class EmployeeTaskController {
         String sql = "SELECT id, name FROM employees";
 
         try (Connection connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
-             Statement statement = connection.createStatement();
-             ResultSet resultSet = statement.executeQuery(sql)) {
+                Statement statement = connection.createStatement();
+                ResultSet resultSet = statement.executeQuery(sql)) {
 
             ObservableList<String> employees = FXCollections.observableArrayList();
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
                 String name = resultSet.getString("name");
-                employees.add(id + " - " + name); // Adding id and name to distinguish between employees with the same name
+                employees.add(id + " - " + name); // Adding id and name to distinguish between employees with the same
+                                                  // name
             }
             employeeFilterComboBox.setItems(employees);
         } catch (SQLException e) {
@@ -88,7 +89,7 @@ public class EmployeeTaskController {
         String sql = "SELECT * FROM tasks WHERE employee_id = ?";
 
         try (Connection connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
-             PreparedStatement preparedStatement = connection.prepareStatement(sql)) {
+                PreparedStatement preparedStatement = connection.prepareStatement(sql)) {
 
             preparedStatement.setInt(1, employeeId);
             ResultSet resultSet = preparedStatement.executeQuery();
@@ -125,7 +126,7 @@ public class EmployeeTaskController {
         String sql = "UPDATE tasks SET completion_status = ? WHERE id = ?";
 
         try (Connection connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
-             PreparedStatement preparedStatement = connection.prepareStatement(sql)) {
+                PreparedStatement preparedStatement = connection.prepareStatement(sql)) {
 
             preparedStatement.setString(1, newStatus);
             preparedStatement.setInt(2, selectedTask.getId());

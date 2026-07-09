@@ -1,141 +1,83 @@
-# EmployeeManagementSystem
-An employee management system based on java fx and built using maven
-# Employee Management System
+# Employee Management System — JavaFX, MySQL, Maven
 
-## Table of Contents
+## Overview
 
-- [Introduction]
-- [Features]
-- [Technologies Used]
-- [Setup Instructions]
-- [Project Structure]
-- [Database Schema]
-- [Usage]
-- [Screenshots]
-- [Contributors]
+This project is a desktop-based Employee Management System developed using JavaFX, Maven, and MySQL. The system is designed to manage employee records, leave requests, task assignments, performance tracking, and payroll-related operations through a structured JavaFX user interface connected to a relational database backend.
 
-## Introduction
+The project follows a controller-based JavaFX architecture where FXML views are mapped to dedicated Java controllers. The application uses JDBC and prepared statements for database interaction and JavaFX observable models/properties for displaying and updating employee, leave, and task data in table-based UI components.
 
-The Employee Management System is a JavaFX application designed to manage various employee-related operations. It provides functionality for managing employee profiles, leave applications, task assignments, performance reviews, and payroll details.
+## Core Functional Modules
 
-## Features
+- Employee record management including add, update, delete, profile view, and employee listing.
+- Leave management workflow including employee leave request submission, manager approval, rejection, and leave status tracking.
+- Task management workflow including task assignment, task update, task deletion, and task completion status handling.
+- Performance management using performance factors and employee rating updates.
+- Payroll-related functionality including salary calculation, payroll view, leave-based deductions, and report generation.
+- Dashboard/report features for employee performance, department productivity, leave analysis, task completion, and monthly payroll review.
 
-- View Employee List
-- Employee Profile Management
-- Leave Application Management
-- Task Management for Employees and Managers
-- Performance Management
-- Report Generation:
-    - Employee Performance Summary Report
-    - Leave Management Analysis Report
-    - Task Completion Efficiency Report
-    - Departmental Productivity Report
-    - View Employee Payroll Details
-    - Generate Monthly Payroll Report
+## Technical Stack
 
-## Technologies Used
-
-- Java
-- JavaFX
-- MySQL
+- Java 17
+- JavaFX 17
 - Maven
+- MySQL
+- JDBC
+- FXML
+- ControlsFX
+- JUnit 5
+- Jira for test case and bug tracking
 
-## Setup Instructions
+## Database Design
+
+The application uses a MySQL database named `EmployeeManagement`. The main entities include:
+
+- `employees` for employee profile, department, position, salary, bonus, and performance factor data.
+- `leave_requests` for employee leave request records and approval/rejection status.
+- `tasks` for employee task assignment and completion status tracking.
+
+## Software Quality Engineering Work
+
+As part of the SQE assignment, the project was tested using black-box testing and boundary value analysis. Test cases were designed around critical business functions such as employee creation, employee update validation, leave request processing, task assignment, task update, payroll view, and report generation.
+
+The testing work included:
+
+- Creating and documenting functional test cases.
+- Mapping expected results against actual results.
+- Tracking pass/fail execution status.
+- Identifying high-priority failed test cases.
+- Logging critical bugs in Jira.
+- Creating test dashboards for pass/fail ratio and high-priority failure tracking.
+- Preparing Boundary Value Analysis documentation for controller-level input validation and error-handling scenarios.
+
+## Key QA Findings
+
+The testing process identified validation and workflow issues, including missing error handling when employee fields were left empty, update operations with incomplete input, and task update behavior not matching the expected result. These issues were documented as bugs and mapped against related failed test cases.
+
+## Documentation
+
+The repository includes supporting SQE documentation:
+
+- SQE Assignment Report
+- Boundary Value Analysis Test Cases
+- Jira Test Case Export
+
+## How to Run
 
 ### Prerequisites
 
-- Java JDK 17 or higher
-- MySQL
+- Java JDK 17 or above
 - Maven
-- JavaFX SDK
+- MySQL Server
+- JavaFX-supported environment
 
-### Steps
+### Setup
 
-1. **Clone the repository:**
-    
-    ```bash
-    git clone <https://github.com/junainanur/EmployeeManagementSystem.git>
-    cd EmployeeManagementSystem
-    
-    ```
-    
-2. **Set up the MySQL Database:**
-    - Create a database named `EmployeeManagement`.
-    - Execute the SQL scripts to create tables and insert initial data.
-3. **Configure Database Connection:**
-    - Update the `DB_URL`, `DB_USER`, and `DB_PASSWORD` in `MainController.java` and `EmployeeListController.java`.
-4. **Build and Run the Application:**
-    
-    ```bash
-    mvn clean install
-    mvn javafx:run
-    ```
-    
+1. Clone the repository.
+2. Create the MySQL database using `database/schema.sql`.
+3. Configure the following environment variables:
 
-## Database Schema
-
-- **employees**
-    - id (INT, PRIMARY KEY)
-    - name (VARCHAR)
-    - position (VARCHAR)
-    - department (VARCHAR)
-    - base_salary (DOUBLE)
-    - performance_factor (DOUBLE)
-- **leave_requests**
-    - id (INT, PRIMARY KEY)
-    - employee_id (INT, FOREIGN KEY)
-    - start_date (DATE)
-    - end_date (DATE)
-    - status (VARCHAR)
-- **tasks**
-    - id (INT, PRIMARY KEY)
-    - employee_id (INT, FOREIGN KEY)
-    - task_description (VARCHAR)
-    - completion_status (VARCHAR)
-
-## Usage
-
-### Main Features
-
-### View Employees
-
-- Click on the "View Employees" button to see the list of all employees.
-
-### Employee Profile
-
-- Click on the "Employee Profile" button to view and edit the profile of the selected employee.
-
-### Leave Application
-
-- Click on the "Leave Application" button to submit a leave request.
-
-### Manager Leave Functions
-
-- Click on the "Manager Leave Functions" button to view, approve, or reject leave requests.
-
-### Task Management
-
-- Click on the "Employee Task Management" or "Manager Task Management" buttons to manage tasks.
-
-### Performance Management
-
-- Click on the "Performance Management" button to manage employee performance reviews.
-
-### Report Generation
-
-- Click on the respective report generation buttons to generate various reports.
-
-### View Employee Payroll Details
-
-- Click on the "View Employee Payroll Details" button to view payroll details of a selected employee.
-
-### Generate Monthly Payroll Report
-
-- Click on the "Generate Monthly Payroll Report" button to generate the monthly payroll report.
-
-## Contributors
-- Nur Junaina
-- Esha Riaz
-- Warda Aziz
-- Amna Noor
-
+```bash
+DB_URL=jdbc:mysql://localhost:3306/EmployeeManagement
+DB_USER=root
+DB_PASSWORD=your_password
+```

@@ -1,0 +1,326 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Outward issue link (Blocks),Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Execution Date),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Status Category,Status Category Changed
+Employee task completion report,EMS-46,10045,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:35,9/16/2024 22:10,9/16/2024 23:37,9/16/2024 20:35,,0,"*Description*: Employee task completion report will be shown.
+
+*Steps:*
+
+Click on Employee task completion  report.
+
+*Expected Outcome:* Employee task completion report will be generated.
+
+*Actual Output*: Report generated.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:35 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;View_Report.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10053,,,,,,,,,,,,,,,,,9/13/2024 0:00,,,,,,,,0|i00093:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_363_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:35
+Generation of employee montly payroll report,EMS-45,10044,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:32,9/16/2024 20:32,9/16/2024 23:38,9/16/2024 20:32,,0,"*Description*: Employee monthly payrolll report will be shown.
+
+*Steps:*
+
+Click on the generate employee payroll report.
+
+*Expected Outcome:* Employee payroll will be generated.
+
+*Actual Output*: Employee payroll generated.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:32 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;View_Report.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10052,,,,,,,,,,,,,,,,,,,,,,,,,0|i0008v:,,,,,,,,,,,,,,10003_*:*_1_*:*_908_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:32
+Employee Performance Summary Report,EMS-44,10043,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:30,9/16/2024 22:10,9/16/2024 23:33,9/16/2024 20:30,,0,"*Description*: Employee Performance Report
+
+*Steps:*
+
+Click on the view employee performance .
+
+*Expected Outcome:*Employee performance will be shown.
+
+*Actual Output*: Employee performance shown.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:30 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;View_Summary.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10051,,,,,,,,,,,,,,,,,9/10/2024 0:00,,,,,,,,0|i0008n:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_414_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:30
+Department Productivity Review Interface,EMS-43,10042,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:27,9/16/2024 22:10,9/16/2024 23:32,9/16/2024 20:27,,0,"*Description*:Clicking on the Department Productivity button a list of all the departments  will be displayed. 
+
+*Expected Outcome:* Alist will be shown
+
+*Actual Output*: List showed.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:27 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;View_Report.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10050,,,,,,,,,,,,,,,,,9/15/2024 0:00,,,,,,,,0|i0008f:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_426_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:27
+Employee Payroll view,EMS-42,10041,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:25,9/16/2024 22:10,9/16/2024 23:32,9/16/2024 20:25,,0,"*Description*: After clicking on the view payroll button of an employee without selecting the employee payroll should  not  be shown.
+
+*Steps:*
+
+Donot Select an employee.
+
+Click on the view payroll button
+
+*Expected Outcome:* Error message will be appeared.
+
+*Actual Output*: Error message appeared.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:25 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;when cicking on view payroll its giving me errror that no employee is selected.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10049,,,,,,,,,,,,,,,,,9/12/2024 0:00,,,,,,,,0|i00087:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_368_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:25
+Employee task management updation ,EMS-41,10040,Test case,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:20,9/16/2024 22:10,9/16/2024 23:31,9/16/2024 20:20,,0,"*Description*: When an employee is selected and youre tring to update the task by clicking on  the update button its not updating the task.
+
+*Expected Outcome:* Task should be assigned 
+
+*Actual Output*:Task is not being assigned.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:20 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;WHEN UPDATING THE TASK AFTER SELECTING EMPLOYEE ITS NOT UPDATING THE TASKS.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10048,,,,,,,,,,,,,,,,,9/12/2024 0:00,,,,,,,,0|i0007z:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_381_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 20:20
+Employee task managment up,EMS-40,10039,Test case,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:17,9/16/2024 20:17,9/16/2024 20:17,9/16/2024 20:17,,0,"*Description*: After the employee leave request is approved a pop showing leave approved successfully will be showd and table will be updated
+
+*Expected Outcome:* Table should be updated.
+
+*Actual Output*: Table is updated",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007r:,,,,,,,,,,,,,,10003_*:*_1_*:*_302_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 20:17
+Employee task assigned updation,EMS-39,10038,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:16,9/16/2024 22:10,9/16/2024 23:31,9/16/2024 20:16,,0,"*Description*:When no employee is selected and youre tring to update the task then an error message will appearded.
+
+*Expected Outcome:* Error message will be shown.
+
+*Actual Output*: Error message is showed.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:16 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;TYRING TO UPDATE THE TASK WITHOUT EMPLOYEE SELECTED.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10047,,,,,,,,,,,,,,,,,9/11/2024 0:00,,,,,,,,0|i0007j:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_889_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:16
+Employee task managment updation functionality,EMS-38,10037,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:14,9/16/2024 20:14,9/16/2024 23:38,9/16/2024 20:14,,0,"*Description*: When no employee is selected and ypoure tring to update the task thenn an error message will be appeared.
+
+*Expected Outcome:* Error message should be appeared.
+
+*Actual Output*: Error message appeared.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:14 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;TYRING TO UPDATE THE TASK WITHOUT EMPLOYEE SELECTED.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10046,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007b:,,,,,,,,,,,,,,10003_*:*_1_*:*_415_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:14
+Employee Task management deletion functionality when no task selected.,EMS-37,10036,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:07,9/16/2024 22:10,9/16/2024 23:30,9/16/2024 20:07,,0,"*Description*:When no task is selected and youre trying to delete it then an error message will be shown.
+
+*Steps:*
+
+Donot select any field.
+
+Click on delete button
+
+*Expected Outcome:* Error message should be showed.
+
+*Actual Output*:Error message is showing",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:07 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;WHen no employee selected then its not gettig deleted.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10045,,,,,,,,,,,,,,,,,9/11/2024 0:00,,,,,,,,0|i00073:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_368_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:07
+Task management deletion functionlity.,EMS-36,10035,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 20:03,9/16/2024 22:10,9/16/2024 23:30,9/16/2024 20:14,,0,"*Description*: After selecting the employee and clicking on delete button then the asssigned task to the employee willl be deleted.
+
+*Steps:*
+
+Select the Employee whom you have  assigned the task.
+
+Click on the Delete button.
+
+Record will be deleted.
+
+*Expected Outcome:* Message of deleted successfuly will be shown.
+
+*Actual Output*: Message showed.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 8:03 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Task deleted successfully.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10044,,,,,,,,,,,,,,,,,9/8/2024 0:00,,,,,,,,0|i0006v:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_636724_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:14
+Employee performance management updation in database,EMS-35,10034,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:59,9/16/2024 22:09,9/16/2024 23:30,9/16/2024 20:14,,0,"*Description*: After selecting an employee field and assigning it rating a table in database should be updated.
+
+*Expected Outcome:* Table should be updated.
+
+*Actual Output*: Table is updated",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:59 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ahmed performance factor is shown in database.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10043,,,,,,,,,,,,,,,,,9/15/2024 0:00,,,,,,,,0|i0006n:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_864004_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 20:14
+Employee performance management,EMS-34,10033,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:58,9/16/2024 22:09,9/16/2024 23:29,9/16/2024 19:58,,0,"*Description*: When no employe is selected or employee name field is empty then erorr message willl be displayed
+
+*Steps:*
+
+Leave the employe name field empty.
+
+Select  the performance rating from options.
+
+Click  on the ok button
+
+
+
+*Expected Outcome:* Error message will be shown.
+
+*Actual Output*: TError message is showed.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:58 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;when i am not selectinh any employee then erro mes is shown.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10042,,,,,,,,,,,,,,,,,9/6/2024 0:00,,,,,,,,0|i0006f:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_396_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:58
+Employee performance management,EMS-33,10032,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:55,9/16/2024 22:09,9/16/2024 23:28,9/16/2024 19:55,,0,"*Description*: After selecting an employee and assigning its performace rating and then clicking on the ok button then its performace rating will be assigned
+
+*Steps:*
+
+Select an employee.
+
+Fill the field of employee name, its performace rating field
+
+Click on the ok button 
+
+*Expected Outcome:* Rating should be assigned
+
+*Actual Output*: Rating assigned",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:55 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;when i update ahmed performance its getting updated.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10041,,,,,,,,,,,,,,,,,9/10/2024 0:00,,,,,,,,0|i00067:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_562_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:55
+Employee task assigned error,EMS-32,10031,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:49,9/16/2024 22:09,9/16/2024 23:28,9/16/2024 19:49,,0,"*Description*: When no task is assigned and youre clicking on the ok button.
+
+*Expected Outcome:* An error message will be displayed.
+
+*Actual Output*: Message displyed.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:48 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;when no task selected and trng to update then error mess is shown.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10040,,,,,,,,,,,,,,,,,9/8/2024 0:00,,,,,,,,0|i0005z:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_446_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:49
+Employee task managment,EMS-31,10030,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:46,9/16/2024 22:09,9/16/2024 23:27,9/16/2024 19:46,,0,"*Description*: Employee task will be assigned when an employee is selected and task assigned button is clicked.
+
+Steps:
+
+Select an employee.
+
+Click on the assign button
+
+*Expected Outcome:* Task should be assigned.
+
+*Actual Output*: Task was assigned ",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:46 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ahme when assign task then task assign successfully.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10039,,,,,,,,,,,,,,,,,9/12/2024 0:00,,,,,,,,0|i0005r:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_883_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:46
+Updation of employee leave apprpved/reject table,EMS-30,10029,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:42,9/16/2024 22:09,9/16/2024 23:26,9/16/2024 19:42,,0,"*Description*:After the employee’s leave is rejeced suuceesfuly then table willl be updated.
+
+*Expected Outcome:* Table should be updated.
+
+*Actual Output*: Table is updated",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:42 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Dtabase after rejection.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10038,,,,,,,,,,,,,,,,,9/11/2024 0:00,,,,,,,,0|i0005j:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_456_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:42
+Emoployee leave request rejection function when no employe is selected.,EMS-29,10028,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:41,9/16/2024 22:08,9/16/2024 23:26,9/16/2024 19:41,,0,"*Description*: Without selecting a specific employee if you click on  the reject button then pop up of select an employee will be appeared on screen.
+
+*Expected Outcome:* Pop up should  appeared .
+
+*Actual Output*: Pop up apprears.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:41 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;when no employee selected and youre trying to update eject status.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10037,,,,,,,,,,,,,,,,,9/11/2024 0:00,,,,,,,,0|i0005b:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_390_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:41
+Employee leave request rejection function.,EMS-28,10027,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:39,9/16/2024 22:08,9/16/2024 23:26,9/16/2024 19:46,,0,"*Description*: When an employee is selected and then reject its leave button is clicked then a pop up of leave rejected successfully should be shown.
+
+*Steps:*
+
+Select an employee.
+
+Click the Reject button. 
+
+Employee leave will be rejected. 
+
+*Expected Outcome:* A pop up is shown..
+
+*Actual Output*: Pop up is showed.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:38 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Rejected successfuly.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10035,16/Sep/24 7:39 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;database before rejecting ahmed reques.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10036,,,,,,,,,,,,,,,,9/11/2024 0:00,,,,,,,,0|i00053:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_465515_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:46
+Updation after employee leave approved.,EMS-27,10026,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:25,9/16/2024 22:08,9/16/2024 23:25,9/16/2024 19:25,,0,"*Description*: After the employee leave request is approved a pop showing leave approved successfully will be showd and table will be updated
+
+*Expected Outcome:* Table should be  updated.
+
+*Actual Output*: Table is updated.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:25 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Dtaabase updated.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10034,,,,,,,,,,,,,,,,,9/10/2024 0:00,,,,,,,,0|i0004v:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_424_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:25
+Employee leave Approval Management,EMS-26,10025,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:22,9/16/2024 22:08,9/16/2024 23:24,9/16/2024 19:22,,0,"*Description*: When no employee is selected and you're cliking on the approved button then a pop up of error message will be displayed.
+
+*Steps:*
+
+Donot select an employee.
+
+Click on the leave approval button.
+
+
+
+*Expected Outcome:* An error message will  be shown.
+
+*Actual Output*: Error message showed. ",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:21 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;when no employeeselected and youre tring to approve their request an error mess is shwon .png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10033,,,,,,,,,,,,,,,,,9/10/2024 0:00,,,,,,,,0|i0004n:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_467_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:22
+Leave Approval Management,EMS-25,10024,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:18,9/16/2024 22:08,9/16/2024 23:24,9/16/2024 19:18,,0,"*Description*: Selecting an employee and clicking on leave approval button will lead to successful updation of employee's leave approval. 
+
+*Steps:*
+
+Select an employee whose leave status you want to update.
+
+Click on the leave approval button.
+
+*Expected Outcome:* A pop up of leave approved successfully will be shown.
+
+*Actual Output*: A pop up is shown.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:18 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ahmed leave approved pop up.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10032,,,,,,,,,,,,,,,,,9/9/2024 0:00,,,,,,,,0|i0004f:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_388_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:18
+Updation of table in database after leaving request submission,EMS-24,10023,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:10,9/16/2024 22:08,9/16/2024 23:23,9/16/2024 19:10,,0,"*Description*: Employee leave request functionlity
+
+*Expected Outcome:* Updated table with the employee id and employee name who submitted the leave request will be shown.
+
+*Actual Output*: Table is updated..",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:10 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;AFTER FILLING ALL DATA TABLE IS UPDATED.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10031,,,,,,,,,,,,,,,,,9/6/2024 0:00,,,,,,,,0|i00047:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_377_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:10
+Employee leave request with two fields empty,EMS-23,10022,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:07,9/16/2024 22:08,9/16/2024 23:22,9/16/2024 19:07,,0,"*Description:* .Employee leave request with two fields empty will show a error message
+
+*Steps:* .Click on the leave management button.
+
+Leave any two fields empty  the field of employee.
+
+Click on the submit leave button
+
+*Expected Outcome:* You will see an error message.
+
+*Actual Output*: Error message is shown.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:07 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Two fileds unfilled win leve .png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10030,,,,,,,,,,,,,,,,,9/5/2024 0:00,,,,,,,,0|i0003z:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_390_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:07
+Employee Leave Request,EMS-22,10021,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 19:04,9/16/2024 22:07,9/16/2024 23:21,9/16/2024 19:04,,0,"*Description*: Employee leave request functionlity
+
+*Steps:*
+
+  Click on the leave management button.
+
+ Fill the field of employee name , date fields.
+
+Click on the submit leave button  
+
+*Expected Outcome:* A pop up of leave request submit successfully will be shown.
+
+*Actual Output*: A pop is shown.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 7:03 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;LEAVE INPUT FIEDS ALL FILLED.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10029,,,,,,,,,,,,,,,,,9/5/2024 0:00,,,,,,,,0|i0003r:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_530_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:04
+Updated database table after deleting employee record,EMS-21,10020,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 18:54,9/16/2024 22:07,9/16/2024 23:21,9/16/2024 18:54,,0,"*Description:* After deleting the specific employee the table will be updated.
+
+*Expected Outcome:* No record of the deleted employee .
+
+*Actual Output*: Employee table updated successfully.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 6:54 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;TABLE UPDATED AFTER DELETION.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10028,,,,,,,,,,,,,,,,,9/5/2024 0:00,,,,,,,,0|i0003j:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_387_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 18:54
+Deleting employee record while not selecting the specific employee record,EMS-20,10019,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 18:52,9/16/2024 22:06,9/16/2024 23:20,9/16/2024 19:22,,0,"*Description:* Clicking the delete button when no employee is selected
+
+*Steps:* Donot select an employee and click on delete  buttton.
+
+*Expected Outcome:* A pop up showing error message will appear .
+
+*Actual Output*: Error message will appear.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 6:52 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;NO EMPLOYEE SELECTED.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10027,,,,,,,,,,,,,,,,,9/5/2024 0:00,,,,,,,,0|i0003b:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_1813616_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 19:22
+Deleting an employee record,EMS-19,10018,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 18:45,9/16/2024 22:06,9/16/2024 23:19,9/16/2024 18:45,,0,"*Description:* Clicking the delete button will delete the record of the employee.
+
+*Steps:* Select  an employee whose record you want to delete and click the ok button.
+
+*Expected Outcome:*  .Record of that specific employee will be deleted.
+
+*Actual Output*: Employee record deleted.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 6:45 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;DELETE SUCCESSUL.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10026,,,,,,,,,,,,,,,,,9/4/2024 0:00,,,,,,,,0|i00033:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_407_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 18:45
+Profile View when no employee selected,EMS-18,10017,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 18:40,9/16/2024 22:06,9/16/2024 23:18,9/16/2024 18:40,,0,"*Description:* Clicking the profile view button will show the profile of the selected employee.
+
+*Steps:* Donot select an employee.
+
+*Expected Outcome:* You will not be able to see the profile if you donot select the employee .
+
+*Actual Output*: Employee profile not shown.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 6:40 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;No employee selected.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10025,,,,,,,,,,,,,,,,,9/4/2024 0:00,,,,,,,,0|i0002v:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_409_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 18:40
+Profile View,EMS-17,10016,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 18:37,9/16/2024 22:06,9/16/2024 23:18,9/16/2024 18:37,,0,"*Profile View:*
+
+       *Description:* Clicking the profile view button will show the profile of the selected employee.
+
+     *Steps:* Choose an employee whose Profile you want to see.
+
+     *Expected Outcome:* You will see the profile .
+
+    *Actual Output*: Employee profile shown.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 6:37 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Employe profile sjown.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10024,,,,,,,,,,,,,,,,,9/4/2024 0:00,,,,,,,,0|i0002n:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_491_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 18:37
+Update employee with two fields empty,EMS-16,10015,Bug,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,High,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 14:41,9/16/2024 21:54,9/16/2024 23:08,9/16/2024 14:41,,0,When i leave the two fields i-e name and position and clicking the update button to update then its updating the employee without error message,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,EMS-15,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0002f:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_307_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 14:41
+Update employee with two fields empty,EMS-15,10014,Test case,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 14:38,9/16/2024 22:06,9/16/2024 23:17,9/16/2024 14:38,,0," *Update Employee*
+
+# *Test Description*: Verify that an employee’s details are updated correctly.
+# *Steps*: Select an employee,but leave two field empty.
+# *Expected Outcome*: An error message should be shown.
+# *Actual Output*: No error messsage is shown.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,EMS-16,,16/Sep/24 2:33 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Empty_fields.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10021,16/Sep/24 2:37 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{69D4EC0F-6CDA-4292-9500-1DED983EAD5C}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10022,16/Sep/24 2:36 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{D1BFA35B-1D95-4E24-B928-89F5A3E15CE2}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10020,,,,,,,,,,,,,,,9/4/2024 0:00,,,,,,,,0|i00027:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_588_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 14:38
+Update employee with no selected employee,EMS-14,10013,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 14:29,9/16/2024 22:05,9/16/2024 23:16,9/16/2024 14:29,,0," *Update Employee*
+
+# *Test Description*: Verify that an employee’s details are updated correctly.
+# *Steps*: Just click on update button
+# *Expected Outcome*: Error message should be displayed that select employee to be updated
+# *Actual Outcome*: POP Up is shown",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 2:39 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;NoEmployee_selecte.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10023,,,,,,,,,,,,,,,,,9/3/2024 0:00,,,,,,,,0|i0001z:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_377_*|*_10006_*:*_1_*:*_12809_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 14:29
+Update Employee with all fields filled,EMS-13,10012,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 14:22,9/16/2024 22:05,9/16/2024 23:15,9/16/2024 14:22,,0,"* *Test Description*: Verify that an employee’s details are updated correctly when all the fields are flled
+* *Steps*: Select an employee, update their details, and verify that the changes are reflected in the {{TableView}}.
+* *Expected Outcome*: The selected employee’s details should be updated in the database and displayed in the {{TableView}}.",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 2:22 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Update_Done.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10019,16/Sep/24 2:22 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Update_Fields.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10018,,,,,,,,,,,,,,,,9/4/2024 0:00,,,,,,,,0|i0001r:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_495_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 14:22
+Bug: All fields left  empty,EMS-12,10011,Bug,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,High,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 13:40,9/16/2024 21:54,9/16/2024 22:57,9/16/2024 13:40,,0,When I left all the fields empty its not showing me any error message,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,EMS-11,16/Sep/24 1:40 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10015,16/Sep/24 1:40 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{5349E5E7-D6EA-4603-B5D3-B1E48202A740}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10016,16/Sep/24 1:40 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{7405C6B2-3557-4B77-9AB9-593910FC5D30}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10017,16/Sep/24 1:40 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{D16BFAAA-DFA9-4FC9-A768-7F14ECBEA200}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10014,,,,,,,,,,,,,,,,,,,,,,0|i0001j:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_643_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 13:40
+Adding employee with all field empty,EMS-11,10010,Test case,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,High,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 13:38,9/16/2024 22:57,9/16/2024 23:15,9/16/2024 13:38,,0,"*Objective*: Verify that the {{handleOk}} method displays an error when all fields are empty.
+
+*Steps*:
+
+# Leave all fields empty.
+# Click the OK button.
+
+*Expected Result*:
+
+* An error alert should be displayed with the messages:
+** ""No valid name!""
+** ""No valid position!""
+** ""No valid department!""
+** ""No valid basic salary!""
+* The dialog should not close.
+
+*Expected output:* An error message will be shown
+
+*Actual OUTPUT:* No error message",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,EMS-12,,16/Sep/24 1:37 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10010,16/Sep/24 1:37 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{5349E5E7-D6EA-4603-B5D3-B1E48202A740}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10011,16/Sep/24 1:37 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{7405C6B2-3557-4B77-9AB9-593910FC5D30}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10012,16/Sep/24 1:37 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;{D16BFAAA-DFA9-4FC9-A768-7F14ECBEA200}.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10013,,,,,,,,,,,,,,9/3/2024 0:00,,,,,,,,0|i0001b:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_647_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 13:38
+Empty input position field,EMS-10,10009,Bug,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,High,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 13:31,9/16/2024 21:53,9/16/2024 23:14,9/16/2024 13:31,,0,When i am leavinh the position field empty its not showing me any error message,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,EMS-5,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00013:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_408_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 13:31
+Adding Employee With one field empty,EMS-5,10004,Test case,Fail,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,High,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 12:30,9/16/2024 22:57,9/16/2024 23:12,9/16/2024 12:30,,0,"*Objective*: Ensure that the {{handleOk}} method displays an error when one or more fields are empty.
+
+*Steps*:
+
+# Enter valid data in {{nameField}}, {{Department}}, and {{basic salary}}.
+# Leave {{position field empty}} 
+# Click the OK button.
+
+*Expected Result*:
+
+* An error alert should be displayed with the message "".
+* The dialog should not close.
+
+*Actual Result:*
+
+NO Error message",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,EMS-10,,16/Sep/24 12:30 PM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;EEEE2.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10008,,,,,,,,,,,,,,,,,9/4/2024 0:00,,,,,,,,0|i0000v:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_597_*|*_10006_*:*_1_*:*_0,Done,9/16/2024 12:30
+Add Employee,EMS-4,10003,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 12:14,9/16/2024 22:04,9/16/2024 23:09,9/16/2024 12:14,,0,"Adding a new employee with all fields Correctly
+
+*Steps:* 
+
+1.Enter valid data in all the fields.
+
+2.Click ok button .
+
+# New emploee should be added
+
+*Expected Result:*
+
+The new employee object should be created .
+
+*Actual Result:*
+
+The new employee object  is created ",,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,16/Sep/24 11:55 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ADD EMPLOYEE DEp.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10003,16/Sep/24 11:55 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ADD EMPLOYEE DEp.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10005,16/Sep/24 11:55 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ADDed e036yee tab3e.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10000,16/Sep/24 11:55 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ADDed e036yee tab3e.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10001,16/Sep/24 11:55 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ADd EMPLOYEE POSITION.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10006,16/Sep/24 11:55 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;ADd EMPLOYEE POSITION.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10007,16/Sep/24 11:52 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;Add employee 1(All fiel check).png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10004,16/Sep/24 11:55 AM;712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0;AddEDD S4CCESSF4333Y.png;https://wardamalik4001.atlassian.net/rest/api/3/attachment/content/10002,,,,,,,,,,9/3/2024 0:00,,,,,,,,0|i0000n:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_1114_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 12:14
+Input fields test,EMS-3,10002,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 10:06,9/16/2024 22:04,9/16/2024 22:04,9/16/2024 10:06,,0,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,,,,,,,,,,,,,,,,,,9/2/2024 0:00,,,,,,,,0|i0000f:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_327_*|*_10005_*:*_1_*:*_0,Done,9/16/2024 10:06
+Test case 1,EMS-2,10001,Test case,Pass,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,Done,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 10:02,9/16/2024 22:03,9/16/2024 22:03,9/16/2024 10:02,,0,des,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,,,,,,,,,,,,,,,,,,9/1/2024 0:00,,,,,,,,0|i00007:,,,EMS Sprint 1,,,,,,,,,,,10003_*:*_1_*:*_362_*|*_10006_*:*_1_*:*_46061_*|*_10005_*:*_2_*:*_11837402,Done,9/16/2024 10:02
+Testing,EMS-1,10000,Epic,To Do,EMS,EMS,software,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,Medium,,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,9/16/2024 9:54,9/16/2024 9:54,9/16/2024 13:20,,,0,,,Warda Malik,712020:c7652243-9048-4bc4-a6b9-ac2330cc43c0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|hzzzzz:,,,,,,,,,,,,,,,To Do,9/16/2024 9:54
