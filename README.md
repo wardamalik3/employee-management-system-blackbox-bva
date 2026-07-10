@@ -35,7 +35,7 @@ The application uses a MySQL database named `EmployeeManagement`. The main entit
 - `leave_requests` for employee leave request records and approval/rejection status.
 - `tasks` for employee task assignment and completion status tracking.
 
-## Software Quality Engineering Work
+## Testing
 
 As part of the SQE assignment, the project was tested using black-box testing and boundary value analysis. Test cases were designed around critical business functions such as employee creation, employee update validation, leave request processing, task assignment, task update, payroll view, and report generation.
 
