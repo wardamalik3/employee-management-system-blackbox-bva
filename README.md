@@ -1,4 +1,4 @@
-# Employee Management System — JavaFX, MySQL, Maven
+# Employee Management System | Black-box testing, Boundary Value Analysis, functional testing, manual testing
 
 ## Overview
 
